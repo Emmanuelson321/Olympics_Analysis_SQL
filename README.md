@@ -1,5 +1,6 @@
 ### Olympic Analysis
-![Uploading portrait-athlete-competing-olympic-games-tournament.jpg…]()
+![Uploading scene-from-olympic-games-tournament-with-athletes-competing.jpg…]()
+
 ### Introduction
 
 Welcome to the **Olympics SQL Analysis Project**! This repository contains a series of SQL analyses on Olympic Games data, executed in a Jupyter Notebook for ease of interactivity. The notebook is connected to a PostgreSQL database using an SQL extension, allowing for efficient data manipulation and exploration.
